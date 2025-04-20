@@ -1,6 +1,6 @@
 # BlinkIT Grocery Data Analysis
 
-![BlinkIT Dashboard](https://raw.githubusercontent.com/sanjana-m55/blinkit-analysis/main/background_kpi.png)
+![BlinkIT Dashboard](Dashboard.png)
 
 ## 📊 Project Overview
 This repository contains data analysis and visualization for BlinkIT, India's last-minute grocery delivery service. The dashboard provides insights into sales performance, outlet distribution, and product categories across different store types and locations.
